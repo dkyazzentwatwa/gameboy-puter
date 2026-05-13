@@ -1,4 +1,4 @@
-// glue minigb_apu and gb_cardputer together
+// glue minigb_apu and gameboy-puter together
 // very rough
 // matthew5pl.net
 

@@ -1,2 +1,8 @@
+.DS_Store
 /.vscode
 /build
+/.arduino
+*.log
+*.bin
+*.elf
+*.map
